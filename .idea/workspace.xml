@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d0adb5-df78-4693-8ecd-77b9064adb9d" name="Changes" comment="" />
+    <list default="true" id="69d0adb5-df78-4693-8ecd-77b9064adb9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Clase01/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase01/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proyecto01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proyecto01/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "merarisosa"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/merarisosa/ALURA-JAVA-POO.git",
+    "accountId": "5ee10d13-177c-454f-930a-e9d9bcdadbad"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2f1tQICudO5sZ1V5Lw68uH1Jhr8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/merarimaysosa/IdeaProjects/Alura-Back- Java aplicando la POO",
     "onboarding.tips.debug.path": "/Users/merarimaysosa/IdeaProjects/Alura-Back- Java aplicando la POO/src/Main.java"
   }
 }]]></component>
