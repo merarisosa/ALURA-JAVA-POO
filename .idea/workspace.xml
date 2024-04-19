@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d0adb5-df78-4693-8ecd-77b9064adb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Clase01/Pelicula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clase01/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proyecto01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proyecto01/Pelicula.java" afterDir="false" />
+    <list default="true" id="69d0adb5-df78-4693-8ecd-77b9064adb9d" name="Changes" comment="Creacion de proyecto basico ScreenMatch, donde se hace uso de metodos, clases y atributos de clases">
+      <change afterPath="$PROJECT_DIR$/src/Clase02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase02/Pelicula.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2f1tQICudO5sZ1V5Lw68uH1Jhr8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,7 +65,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712980402494</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creacion de proyecto basico ScreenMatch, donde se hace uso de metodos, clases y atributos de clases">
+      <option name="closed" value="true" />
+      <created>1713244491575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713244491575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creacion de proyecto basico ScreenMatch, donde se hace uso de metodos, clases y atributos de clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de proyecto basico ScreenMatch, donde se hace uso de metodos, clases y atributos de clases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
